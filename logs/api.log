@@ -27,3 +27,136 @@
 17-05-2022 17:09:36.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı sepetine gider."  parameterizedStepValue:"Kullanıcı sepetine gider."}}
 17-05-2022 17:09:36.715 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı ürünün sepete eklendiğini kontrol eder."}
 17-05-2022 17:09:36.715 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı ürünün sepete eklendiğini kontrol eder."  parameterizedStepValue:"Kullanıcı ürünün sepete eklendiğini kontrol eder."}}
+17-05-2022 17:11:36.973 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:11:37.012 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:15:26.369 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:15:26.381 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:22:08.023 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:22:08.036 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:23:10.202 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı E-posta kısmına <key>, şifre kısmına <key> yazar."}
+17-05-2022 17:23:10.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı E-posta kısmına {}, şifre kısmına {} yazar."  parameterizedStepValue:"Kullanıcı E-posta kısmına <key>, şifre kısmına <key> yazar."  parameters:"key"  parameters:"key"}}
+17-05-2022 17:30:44.991 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:30:45.008 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:35:32.240 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:35:32.241 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:49:27.064 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:49:27.126 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:58:02.326 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 17:58:02.328 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 18:02:37.133 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+17-05-2022 18:02:37.147 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:19:25.831 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-05-2022 13:19:25.841 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-05-2022 13:19:25.841 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:19:25.841 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-05-2022 13:19:25.841 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56381
+18-05-2022 13:19:25.843 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs
+18-05-2022 13:19:25.843 [Gauge] [DEBUG] Found 1 files
+18-05-2022 13:19:32.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı rastgele bir ürüne tıklar."}
+18-05-2022 13:19:32.098 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı rastgele bir ürüne tıklar."  parameterizedStepValue:"Kullanıcı rastgele bir ürüne tıklar."}}
+18-05-2022 13:19:35.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı \"https://www.trendyol.com/\" sitesine gider."}
+18-05-2022 13:19:35.440 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı {} sitesine gider."  parameterizedStepValue:"Kullanıcı <https://www.trendyol.com/> sitesine gider."  parameters:"https://www.trendyol.com/"}}
+18-05-2022 13:19:36.392 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı <key> sitesine gider."}
+18-05-2022 13:19:36.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı {} sitesine gider."  parameterizedStepValue:"Kullanıcı <key> sitesine gider."  parameters:"key"}}
+18-05-2022 13:19:36.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı Giriş yap butonuna tıklar."}
+18-05-2022 13:19:36.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı Giriş yap butonuna tıklar."  parameterizedStepValue:"Kullanıcı Giriş yap butonuna tıklar."}}
+18-05-2022 13:19:36.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı E-posta kısmına <key>, şifre kısmına <key> yazar."}
+18-05-2022 13:19:36.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı E-posta kısmına {}, şifre kısmına {} yazar."  parameterizedStepValue:"Kullanıcı E-posta kısmına <key>, şifre kısmına <key> yazar."  parameters:"key"  parameters:"key"}}
+18-05-2022 13:19:36.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı Giriş Yap butonuna tıklar."}
+18-05-2022 13:19:36.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı Giriş Yap butonuna tıklar."  parameterizedStepValue:"Kullanıcı Giriş Yap butonuna tıklar."}}
+18-05-2022 13:19:36.405 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı Navigation barından Ev & Mobilya kısmına gelir."}
+18-05-2022 13:19:36.405 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı Navigation barından Ev & Mobilya kısmına gelir."  parameterizedStepValue:"Kullanıcı Navigation barından Ev & Mobilya kısmına gelir."}}
+18-05-2022 13:19:36.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı <key> sitesine gider."}
+18-05-2022 13:19:36.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı {} sitesine gider."  parameterizedStepValue:"Kullanıcı <key> sitesine gider."  parameters:"key"}}
+18-05-2022 13:19:36.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı Tablo kısmına tıklar."}
+18-05-2022 13:19:36.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı Tablo kısmına tıklar."  parameterizedStepValue:"Kullanıcı Tablo kısmına tıklar."}}
+18-05-2022 13:33:53.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:33:53.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:33:53.644 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:33:53.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:33:53.646 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:33:53.646 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.345 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı ürünü sepete ekler."}
+18-05-2022 13:34:01.345 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı ürünü sepete ekler."  parameterizedStepValue:"Kullanıcı ürünü sepete ekler."}}
+18-05-2022 13:34:01.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.482 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.483 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.735 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.735 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.793 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.793 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.889 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.890 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:01.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:01.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.098 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.203 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.519 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.528 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.529 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:02.857 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:02.857 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.325 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.325 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.664 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.664 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:03.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:03.953 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:04.138 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:04.138 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:04.208 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:04.209 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:04.374 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:04.375 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:04.495 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:04.495 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:04.537 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:04.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:04.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:04.607 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:06.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:06.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:06.207 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:06.207 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:06.252 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:34:06.253 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:34:28.583 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:34:28.602 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:39:36.457 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:39:36.487 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:42:49.189 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:42:49.191 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:44:06.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı sepetine gider."}
+18-05-2022 13:44:06.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı sepetine gider."  parameterizedStepValue:"Kullanıcı sepetine gider."}}
+18-05-2022 13:44:19.438 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:44:19.474 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:48:18.877 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı ürünün sepete eklendiğini kontrol eder."}
+18-05-2022 13:48:18.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı ürünün sepete eklendiğini kontrol eder."  parameterizedStepValue:"Kullanıcı ürünün sepete eklendiğini kontrol eder."}}
+18-05-2022 13:48:36.192 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:48:36.217 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:52:28.109 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı E-posta kısmına \"ecktestautomation@gmail.com\", şifre kısmına \"ecktest666\" yazar."}
+18-05-2022 13:52:28.109 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı E-posta kısmına {}, şifre kısmına {} yazar."  parameterizedStepValue:"Kullanıcı E-posta kısmına <ecktestautomation@gmail.com>, şifre kısmına <ecktest666> yazar."  parameters:"ecktestautomation@gmail.com"  parameters:"ecktest666"}}
+18-05-2022 13:52:33.095 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec
+18-05-2022 13:52:33.167 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\TrendyolUiCaseAddBasket\specs\example.spec

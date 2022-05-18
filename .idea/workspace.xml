@@ -1,24 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df04f8a1-fd76-4088-a639-699ac51ac56c" name="Changes" comment="" />
+    <list default="true" id="df04f8a1-fd76-4088-a639-699ac51ac56c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-0c7b5637-1b76-46b3-95ba-b17cfa0c3f8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-0e4e72c6-74b1-4444-8d2f-2a717ed0e348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-31704329-076a-4f17-b4ca-5724e56a6067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-4661e8be-d10b-414f-9f39-413bcdb1c573.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-d3bb7179-37cb-42f5-9651-380afc3371f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-e710cfd0-35fc-4015-a28e-77fba4c7526d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/java.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/user.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/firefox/browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/gaugeLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/specs/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageModel/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageModel/BasketModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageModel/HomeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageModel/LoginModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageModel/ProductsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/BasketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/HomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/ProductsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverFactory.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29IJmTOFCx6vtF8Y47voQyzlbJt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ECK/Desktop/test/TrendyolCase-YunusEmreKilic"
   }
 }]]></component>
+  <component name="RunManager" selected="Gauge Execution.Trendyol Add Basket Test (5)">
+    <configuration name="Trendyol Add Basket Test (1)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TrendyolUiCaseAddBasket" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trendyol Add Basket Test (2)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TrendyolUiCaseAddBasket" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trendyol Add Basket Test (3)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TrendyolUiCaseAddBasket" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trendyol Add Basket Test (4)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TrendyolUiCaseAddBasket" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trendyol Add Basket Test (5)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:7" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="TrendyolUiCaseAddBasket" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Trendyol Add Basket Test (5)" />
+        <item itemvalue="Gauge Execution.Trendyol Add Basket Test (4)" />
+        <item itemvalue="Gauge Execution.Trendyol Add Basket Test (3)" />
+        <item itemvalue="Gauge Execution.Trendyol Add Basket Test (2)" />
+        <item itemvalue="Gauge Execution.Trendyol Add Basket Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +219,19 @@
       <updated>1652794826487</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
